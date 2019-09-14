@@ -2,6 +2,8 @@
 
 *Jake VanderPlas, Summer 2016*
 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/py4ds/WhirlwindTourOfPython//master?urlpath=lab/tree/Index.ipynb)
+
 This repository contains the Jupyter Notebooks behind my O'Reilly report,
 [*A Whirlwind Tour of Python*](http://www.oreilly.com/programming/free/a-whirlwind-tour-of-python.csp) (free [100-page pdf](http://www.oreilly.com/programming/free/files/a-whirlwind-tour-of-python.pdf)).
 
