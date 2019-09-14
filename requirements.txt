@@ -4,5 +4,6 @@ matplotlib
 seaborn
 scikit-learn
 jupyter_contrib_nbextensions
+jupyterlab==1.1.3
 jupyterlab-git
 rise
